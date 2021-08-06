@@ -1,4 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 # Hi👋, I'm Andrea Rettaroli
 ## I'm a Software Development Engineer and a Computer Science and Engineering Student
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 
 
 <br/>
----
+
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AndreaRettaroli&repo=AndreaRettaroli&countColorcountColor&countColor=%237B1E7B"/>
 
