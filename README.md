@@ -97,15 +97,14 @@ Here are some ideas to get you started:
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>  
   </a>
-    <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="  https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorFlow" width="40" height="40"/>    
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorFlow" width="40" height="40"/>    
+  </a> 
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupiterNotebook" width="40" height="40"/>    
   </a>
-     <a href="https://jupyter.org/" target="_blank">
-    <img src="  https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupiterNotebook" width="40" height="40"/>    
-  </a>
-
   <a href="https://www.php.net/" target="_blank">
-    <img src="  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="40" height="40"/>    
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="40" height="40"/>    
   </a>
  <a href="" target="_blank">
     <img src="https://i.imgur.com/eO5z1xV.png" alt="markdown" width="40" height="40"/>    
