@@ -1,4 +1,5 @@
-### Hi👋, I'm Andrea Rettaroli
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+# Hi👋, I'm Andrea Rettaroli
 ## I'm a Software Development Engineer and a Computer Science and Engineering Student
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -20,8 +21,8 @@ Here are some ideas to get you started:
 
 
 
-## 📊 Github Stats (Expand to View)
-<details> 
+## 📊 Github Stats 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -32,18 +33,34 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 
-<details>
+
+
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/AndreaRettaroli"><img alt="Andrea's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndreaRettaroli&custom_title=Andrea's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+
 
 <br/>
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AndreaRettaroli&repo=AndreaRettaroli&countColorcountColor&countColor=%237B1E7B"/>
+
+## Contact with me 📝
+
+
+[<img align="left" alt="AndreaRettaroli | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="AndreaRettaroli | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+
+
+<br />
+
+
+[instagram]: https://www.instagram.com/yugualemxpiuq
+[linkedin]: https://www.linkedin.com/in/andrea-rettaroli-343300120/
 <!--
 
 - 👯 I’m looking to collaborate on ...
