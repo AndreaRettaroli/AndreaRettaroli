@@ -23,26 +23,28 @@ Here are some ideas to get you started:
 
 
 ## 📊 Github Stats 
-
+<details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaRettaroli&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+</details>
+<details>
 <br/>
+<summary><b>💻 GitHub Code Stats</b></summary>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaRettaroli&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AndreaRettaroli" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+</details>
 
-
-
-
+<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/AndreaRettaroli"><img alt="Andrea's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndreaRettaroli&custom_title=Andrea's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+</details>
 
 
 <br/>
