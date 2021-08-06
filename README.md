@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stats 
 <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>📈 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaRettaroli&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
