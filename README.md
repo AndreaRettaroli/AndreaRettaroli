@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <a href="https://docs.microsoft.com/it-it/dotnet/csharp/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="40" height="40"/>
   </a>
-<a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws" width="40" height="40"/>
+<a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
  <a href="https://www.java.com/" target="_blank">
     <img src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt="java" width="40" height="40"/>
@@ -39,9 +39,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
