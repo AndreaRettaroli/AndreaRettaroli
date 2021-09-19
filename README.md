@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 ## Contact with me 📝
 
 
-[<img align="left" alt="AndreaRettaroli | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.svg"/>][linkedin]
+[<img align="left" alt="AndreaRettaroli | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
 [<img align="left" alt="AndreaRettaroli | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 
 
