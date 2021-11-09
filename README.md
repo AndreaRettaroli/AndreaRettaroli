@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at **[Nautes](https://www.nautes.com/)**
+- 🔭 I’m currently open to work
 - 🌱 I’m currently learning at **[UNIBO-Cesena, LM-Ingegneria e Scienze informatiche](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)**
 - 👨‍💻 I’m currently working on development technologies like C#, Java, .Net, React, ecc
 - 📚 I’m currently learning everything about Hololens 2, Frontend and Backend technologies 😅
