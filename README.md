@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="AndreaRettaroli | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
 [<img align="left" alt="AndreaRettaroli | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-[<img align="left" alt="AndreaRettaroli | OpenSea" height="30px" src="https://opensea.io/static/images/logos/opensea.svg" />][opensea]
+[<img align="left" alt="AndreaRettaroli | OpenSea" height="30px" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" />][opensea]
 
 <br />
 
