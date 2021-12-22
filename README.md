@@ -165,14 +165,15 @@ Here are some ideas to get you started:
 
 
 [<img align="left" alt="AndreaRettaroli | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/>][linkedin]
-[<img align="left" alt="AndreaRettaroli | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-
+[<img align="left" alt="AndreaRettaroli | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
+[<img align="left" alt="AndreaRettaroli | OpenSea" height="30px" src="https://opensea.io/static/images/logos/opensea.svg" />][opensea]
 
 <br />
 
 
 [instagram]: https://www.instagram.com/yugualemxpiuq
 [linkedin]: https://www.linkedin.com/in/andrea-rettaroli-343300120/
+[opensea]: https://opensea.io/collection/cryptodavids
 <!--
 
 - 👯 I’m looking to collaborate on ...
