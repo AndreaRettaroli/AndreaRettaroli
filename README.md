@@ -2,7 +2,6 @@
 
 # Hi👋, I'm Andrea Rettaroli
 ## I'm a Full Stack Developer and a Computer Science and Engineering Student
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <!--
 **AndreaRettaroli/AndreaRettaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
