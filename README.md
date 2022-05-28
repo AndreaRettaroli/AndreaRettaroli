@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 # Hi👋, I'm Andrea Rettaroli
-## I'm a Software Development Engineer and a Computer Science and Engineering Student
+## I'm a Full Stack Developer and a Computer Science and Engineering Student
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <!--
@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning at **[UNIBO-Cesena, LM-Ingegneria e Scienze informatiche](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)**
-- 👨‍💻 I’m currently working on development technologies like C#, Java, .Net, React, ecc
-- 📚 I’m currently learning everything about Hololens 2, Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on development technologies like Node Js, React Js, React-Native, Python, C#, Java, .Net, ecc
+- 📚 I’m currently learning everything about Blockchain, Web3 and solidity language 😅
+- 💪🏼 Future Goals: Pass from web2 to web3 - Never stop creating new ideas.
 - 💜 Interests: travel, photography, cryptocurrencies, video games.
 
 ## Languages and Tools 🛠️
