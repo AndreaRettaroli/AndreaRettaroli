@@ -147,6 +147,7 @@ Here are some ideas to get you started:
 </details>
 
 <br/>
+	
 ## Contact with me 📝
 
 
