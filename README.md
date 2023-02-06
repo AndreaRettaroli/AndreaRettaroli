@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning at **[UNIBO-Cesena, LM-Ingegneria e Scienze informatiche](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)**
 - 👨‍💻 I’m currently working on development technologies like Node Js, React Js, React-Native, Python, C#, Java, .Net, ecc
-- 📚 I’m currently learning everything about Blockchain, Web3 and solidity language 😅
-- 💪🏼 Future Goals: Pass from web2 to web3 - Never stop creating new ideas.
+- 📚 I’m currently learning everything about Web3 and solidity language 😅
 - 💜 Interests: travel, photography, cryptocurrencies, video games.
 
 ## Languages and Tools 🛠️
@@ -147,19 +146,7 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/AndreaRettaroli"><img alt="Andrea's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndreaRettaroli&custom_title=Andrea's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-
-
 <br/>
-
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AndreaRettaroli&repo=AndreaRettaroli&countColorcountColor&countColor=%237B1E7B"/>
-
 ## Contact with me 📝
 
 
