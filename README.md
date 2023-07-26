@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 # Hi👋, I'm Andrea Rettaroli
-## I'm a Full Stack Developer and a Master student in Engineering and Computer Science 
+## I'm a Full Stack Developer
 
 <!--
 **AndreaRettaroli/AndreaRettaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,9 +9,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently open to work
-- 🌱 I’m currently learning at **[UNIBO-Cesena, LM-Ingegneria e Scienze informatiche](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)**
-- 👨‍💻 I’m currently working on development technologies like Node Js, React Js, React-Native, Python, C#, Java, .Net, ecc
-- 📚 I’m currently learning everything about Web3 and solidity language 😅
+- 🌱 I have a [master’s degree in engineering and computer science at Unversity of Bologna](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)
+- 👨‍💻 I like working technologies like NodeJs, ReactJs, React-Native, Python, C#, .Net and Java. 
 - 💜 Interests: travel, photography, cryptocurrencies, video games.
 
 ## Languages and Tools 🛠️
