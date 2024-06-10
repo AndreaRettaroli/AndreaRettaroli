@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 # Hi👋, I'm Andrea Rettaroli
-## I'm a Full Stack Developer
+## I'm a Software Engineer
 
 <!--
 **AndreaRettaroli/AndreaRettaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
